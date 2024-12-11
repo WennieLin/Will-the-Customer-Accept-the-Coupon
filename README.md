@@ -28,4 +28,4 @@ Overall, the analysis suggests that bar coupon acceptance is influenced by sever
 
 Jupyter Notebook
 For a more detailed view of the analysis and the complete code used to derive these insights, you can access the Jupyter notebook here:
-[View the Jupyter Notebook](https://colab.research.google.com/drive/1tfRyvlEFELV5TXFMCDTxJ8O0eWNRyeK0#scrollTo=aK_wEzx7_qRK)
+[[View the Jupyter Notebook](https://colab.research.google.com/drive/1tfRyvlEFELV5TXFMCDTxJ8O0eWNRyeK0#scrollTo=aK_wEzx7_qRK)](https://colab.research.google.com/drive/1hzfzxJtTuYbmjazHoS9YDm-TR45IkJXL)
