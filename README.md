@@ -25,3 +25,7 @@ The analysis extended to examining the influence of gender on coupon acceptance 
 
 7. Conclusion:
 Overall, the analysis suggests that bar coupon acceptance is influenced by several factors, including the frequency of bar visits, age, temperature, and even the occupation and social behavior of the customers. While frequent bar-goers, older individuals, and males show higher acceptance rates, income and dining habits are less directly linked to coupon usage. These insights provide valuable guidance for marketers looking to optimize their coupon campaigns by focusing on the right demographics and behavioral segments. By understanding these correlations, businesses can create more targeted, effective promotions that drive higher redemption rates.
+
+Jupyter Notebook
+For a more detailed view of the analysis and the complete code used to derive these insights, you can access the Jupyter notebook here:
+[View the Jupyter Notebook](https://colab.research.google.com/drive/1tfRyvlEFELV5TXFMCDTxJ8O0eWNRyeK0#scrollTo=aK_wEzx7_qRK)
